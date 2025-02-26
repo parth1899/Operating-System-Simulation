@@ -4,7 +4,7 @@
 #include <set>
 using namespace std;
 
-string IPFILE = "inputphase2.txt";
+string IPFILE = "Sample-Input.txt";
 
 char Memory[300][4];
 vector<char> R(4), IR(4);
